@@ -1,4 +1,4 @@
-##👋 Olá, eu sou Gabriel Ravazzolo
+## 👋 Olá, eu sou Gabriel Ravazzolo
 🎓 Estudante de Informática para Internet (IFRN)  
 💻 programador em formação  
 🚀 Entusiasta de tecnologia  
